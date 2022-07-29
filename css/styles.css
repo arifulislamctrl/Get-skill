@@ -9,3 +9,14 @@ body {
 .custom-nv li a {
     margin-right: 2rem;
 }
+.font {
+    font-size: 4.5rem;
+}
+
+.bg-imges {
+    filter: brightness(55%);
+}
+
+.height-img img {
+    height: 95vh !important;
+}
